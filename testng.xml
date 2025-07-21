@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="AutomationExerciseSuite" verbose="1" parallel="false">
+
+    <test name="Functional Test Cases">
+        <classes>
+
+            <!-- User Registration Test -->
+            <class name="tests.RegisterUserTest" />
+
+            <!-- Login Tests -->
+            <class name="tests.LoginValidTest" />
+            <class name="tests.LoginInvalidTest" />
+
+            <!-- Contact Us Test -->
+            <class name="tests.ContactUsTest" />
+
+            <!-- Product Search and View -->
+            <class name="tests.ProductSearchTest" />
+            <class name="tests.ProductDetailsTest" />
+
+            <!-- Cart & Checkout -->
+            <class name="tests.AddToCartTest" />
+            <class name="tests.PlaceOrderTest" />
+            <class name="tests.PaymentTest" />
+
+            <!-- Logout Test -->
+            <class name="tests.LogoutTest" />
+
+        </classes>
+    </test>
+
+</suite>
