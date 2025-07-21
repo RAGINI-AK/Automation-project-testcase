@@ -1,4 +1,3 @@
-# Automation-project-testcase
 # Automation Exercise - Selenium TestNG Project
 
 ## 📌 Project Overview
