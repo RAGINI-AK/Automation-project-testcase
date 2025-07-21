@@ -27,7 +27,3 @@ This is an automation testing practice project created using [AutomationExercise
 6. Place Order and Payment
 7. Logout
 
----
-
-## 📁 Project Structure
-
