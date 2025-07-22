@@ -1,10 +1,10 @@
-# ✅ Test Cases - Automation Exercise Project
+# Test Cases - Automation Exercise Project
 
 This document contains the list of manual test cases created for testing various functionalities of [AutomationExercise.com](https://automationexercise.com/).
 
 ---
 
-## 📋 Test Case List
+## Test Case List
 
 | Test Case ID | Title                          | Steps to Execute                                                                 | Expected Result                                      | Priority | Status |
 |--------------|--------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------|----------|--------|
@@ -21,12 +21,9 @@ This document contains the list of manual test cases created for testing various
 
 ---
 
-## 🧪 Notes
+##  Notes
 
 - These test cases are used for both **manual testing** and to plan **automation scripts**.
 - Written in alignment with Selenium + TestNG framework using Java.
-
----
-
-## ✍️ Author: Raginī Arvind Kamble
+- 
 
