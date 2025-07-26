@@ -20,10 +20,8 @@ This is an automation testing practice project created using [AutomationExercise
 ## 🎯 Modules Covered
 
 1. User Registration
-2. Login with Valid and Invalid Credentials
-3. Contact Us Form
-4. Product Search and View
-5. Add to Cart
-6. Place Order and Payment
-7. Logout
+2. Login with Valid and Invalid       Credentials
+3. Add to Cart
+4. Place Order
+5. Logout
 
