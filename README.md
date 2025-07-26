@@ -1,12 +1,12 @@
-# Automation Exercise - Selenium TestNG Project
+# Automation-Exercise = Selenium Project
 
-## 📌 Project Overview
+## Project Overview
 
 This is an automation testing practice project created using [AutomationExercise.com](https://automationexercise.com/), a demo website for testing UI functionalities. The project uses **Selenium WebDriver** and **TestNG** with Java to automate common scenarios.
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Selenium WebDriver
 - Java
@@ -17,11 +17,12 @@ This is an automation testing practice project created using [AutomationExercise
 
 ---
 
-## 🎯 Modules Covered
+##  Modules Covered
 
 1. User Registration
 2. Login with Valid and Invalid       Credentials
-3. Add to Cart
-4. Place Order
-5. Logout
+3. search product and varify
+4. Add to Cart
+5. Place Order
+6. Logout
 
